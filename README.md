@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**Mohan-Pandi-SP/Mohan-Pandi-SP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 It's me MohanPandi SP
 
-Here are some ideas to get you started:
+Electronics and communication @ Student
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+- 🔭 Here's my [portfolio](https://mohan-pandi-sp.github.io/Animated-Portfolio/)                                                 
+- 🌱 I’m currently learning Fronend
+- 👯 I’m looking to collaborate on SQL
+- 🤔 I’m looking for help with Placements in FAANG
+- 💬 Ask me about Tech
+- 📫 How to reach me :
+<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sp-mohanpandi-91b64a331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 😄 Pronouns: MP
+- ⚡ Fun fact: I know English as well as Tamil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I code in
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+
+### IDE and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+
+
+
+![LeetCode Stats]()
